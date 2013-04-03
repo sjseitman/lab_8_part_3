@@ -30,4 +30,5 @@ void draw() {
   ellipse(x + 20, 320, 20, 20);
   ellipse(x + 60, 320, 20, 20);
 
+  // a comment
 }
